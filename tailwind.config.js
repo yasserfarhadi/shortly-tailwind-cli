@@ -3,7 +3,7 @@
 module.exports = {
   content: ['./src/**/*.{html,js}'],
   theme: {
-    extends: {
+    extend: {
       colors: {
         cyan: 'hsl(180, 66%, 49%)',
         cyanLight: 'hsl(180, 66%, 69%)',
